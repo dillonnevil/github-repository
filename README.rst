@@ -1,6 +1,6 @@
-Odoo 14 Budgets Management
-=============================
-* Budgets Management system for Odoo 14 Community edition
+Accounting Kit
+==============
+* Full accounting kit for Odoo 14 community editions
 
 Installation
 ============
@@ -19,8 +19,11 @@ Company
 Credits
 -------
 * Developer:
+(v13) Milind Mohan @ Cybrosys
+(v13) Mashhood K U @ Cybrosys
+(v13) Sreejith @ Cybrosys
 (v13) Varsha Vivek @ Cybrosys
-(v14) Sachin @ Cybrosys
+(v14) Risha @ Cybrosys
 
 Contacts
 --------
